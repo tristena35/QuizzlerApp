@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzler</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Implementing algorithms on a computer often increases productivity</string>
+    <string name="question_2">The individual who is most instrumental in creating a computer, as we know it today is John Van Neumann</string>
+    <string name="question_3">Wireless data communications are 5th generation innovation in computing</string>
+    <string name="question_4">3 Types of generations used to construct algorithms are sequential, conditional and iterative</string>
+    <string name="question_5">The Leibniz wheel can carry out addition, subtraction, multiplication and division</string>
+    <string name="question_6">Computer Science is the study of computers.</string>
+    <string name="question_7">When an operation is unambiguous, we call it a primitive operation or simply a primitive of the computing agent carrying out the algorithm</string>
+    <string name="question_8">All conceivable problems can be solved algorithmically.</string>
+    <string name="question_9">The scope of a variable is limited to the block in which it is defined.</string>
+    <string name="question_10">A variable is a named storage location in the computer\'s memory.</string>
+    <string name="question_11">Algorithms are exclusive to the field of computer science.</string>
+    <string name="question_12">Information after // is read by the compiler.</string>
+    <string name="question_13">A method with a return type of void does not return a value.</string>
+
+</resources>
